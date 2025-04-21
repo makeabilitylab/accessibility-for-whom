@@ -29,27 +29,12 @@ See our [sidewalk image dataset](/sidewalk-images/) and paper for more details.
 
 ## Dataset and Analysis
 
-For open-ended questions, we used qualitative open coding[1] to develop themes based on sidewalk barrier categories.
-For the passability assessment (Part 2.1), we calculated how often participants answered "Yes," "No," or "Unsure" for each mobility aid group. We compared differences between mobility groups using mixed multinomial logistic regression[2][3][4] and performed pairwise comparisons with Holm's correction[5].
-For the image comparison task (Part 2.2), we used Q scores[6] to rank barrier passability. Q scores (0-10 scale) account for ties when participants selected "Unsure." We analyzed these scores using mixed-effects ordinal regression[10].
-For the ranking task (Part 3), we used Kemeny-Young rank aggregation[11][12][13] to find the consensus ranking that minimizes the distance to all participant rankings.
+For open-ended questions, we used qualitative open coding ([Charmaz, 2006](https://books.google.com/books?hl=en&lr=&id=2ThdBAAAQBAJ&oi=fnd&pg=PP1&ots=f-mW6IjCDY&sig=Lwh5HMGqKNqE2hdUU2KvlS-eN4U)) to develop themes based on sidewalk barrier categories.
+For the passability assessment (Part 2.1), we calculated how often participants answered "Yes," "No," or "Unsure" for each mobility aid group. We compared differences between mobility groups using mixed multinomial logistic regression ([Baker, 1994](https://doi.org/10.2307/2348134), [Guimaraes, 2004](https://doi.org/10.1177/1536867X0400400304), [Chen, 2001](https://www.jstor.org/stable/2685993)) and performed pairwise comparisons with Holm's correction Holm, 1979.
+For the image comparison task (Part 2.2), we used Q scores ([Salesses et al., 2013](https://doi.org/10.1371/journal.pone.0068400)) to rank barrier passability. Q scores (0-10 scale) account for ties when participants selected "Unsure." We analyzed these scores using mixed-effects ordinal regression ([Hedeker & Gibbons, 1994](https://doi.org/10.2307/2533433)).
+For the ranking task (Part 3), we used Kemeny-Young rank aggregation ([Young, 1988](https://doi.org/10.2307/1961757)), ([Young, 1995](https://doi.org/10.1257/jep.9.1.51)), ([Kemeny, 1959](https://www.jstor.org/stable/20026529)) to find the consensus ranking that minimizes the distance to all participant rankings.
 
 See our [survey dataset and analysis code](/dataset-analysis/) and paper for more details.
-
-[1]: Charmaz, K. (2006). Constructing grounded theory. <br>
-[2]: Baker, S. G. (1994). The multinomial-Poisson transformation. <br>
-[3]: Guimaraes, P. (2004). Understanding the multinomial-Poisson transformation. <br>
-[4]: Chen, Y. (2001). A note on the relationship between Poisson and multinomial. <br>
-[5]: Holm, S. (1979). A simple sequentially rejective multiple test procedure. <br>
-[6]: Salesses, P., et al. (2013). The collaborative image of the city. <br>
-[7]: Zhang, F., et al. (2018). Measuring human perceptions of streetscapes. <br>
-[8]: Goodspeed, R. (2017). Research note: An evaluation of the StreetScore algorithm. <br>
-[9]: Evans-Cowley, J. (2014). StreetSeen visual perception of streets. <br>
-[10]: Hedeker, D., & Gibbons, R. D. (1994). A random-effects ordinal regression model. <br>
-[11]: Young, H. P. (1988). Condorcet's theory of voting. <br>
-[12]: Young, H. P. (1995). Optimal voting rules. <br>
-[13]: Kemeny, J. G. (1959). Mathematics without numbers. <br>
-[14]: Hamm, R. M. (2021). Computing Kemeny's rule by solving a computer problem.
 
 ## Applications
 We demonstrate how our survey findings can be used to create accessibility-oriented analytical maps and personalized routing algorithms.

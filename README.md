@@ -3,7 +3,7 @@ In our paper *Accessibility for Whom*, we present a large-scale online survey ex
 Using 52 sidewalk barrier images, respondents evaluated their confidence in navigating each scenario. Our findings (N=190) reveal
 variations in barrier perceptions across groups, while also identifying shared concerns.
 
-Check out our [paper](https://dl.acm.org/doi/pdf/10.1145/3613904.3642089) and [video](https://youtu.be/53Cmxsqjphg) for more details.
+Check out our [paper](https://arxiv.org/abs/2502.19888) and [video](https://youtu.be/aRcY8wYZqXw) for more details.
 
 ![AccessibilityForWhom](/figures/figure-teaser.png)
 

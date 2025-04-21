@@ -1,0 +1,15 @@
+.shortcut-key {
+  display: inline-block;
+    width: 1.2em;
+    height: 1.2em;
+    line-height: 1.2em;
+    text-align: center;
+    margin-right: 8px;
+    margin-top:0px;
+    font-weight: bold;
+    border-radius: 0.2em;
+    font-size: 1em;
+    background-color: #e0f2f1;
+    color:#0f766e;
+  }
+  

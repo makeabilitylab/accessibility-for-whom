@@ -1,0 +1,28 @@
+/* ImageSelection.css */
+.selection-image-wrapper {
+  display: flex;
+  margin: 1rem;
+  overflow: hidden;
+  height: 50vh;
+  border-radius: 0.5em;
+}
+
+.image-and-selection-buttons {
+  width: 60vw;
+  margin: auto;
+  display: flex;
+  height: auto;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: center;
+  margin-bottom: 4rem; /* Adjusted to use rem for consistency */
+}
+
+.image-selection-content {
+  margin: auto;
+  width: 80vw;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

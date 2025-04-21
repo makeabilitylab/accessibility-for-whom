@@ -1,0 +1,261 @@
+MobilityAid,ImageID,ImageSet,ImageType,Q,Rank
+Motorized wheelchair,3047,7,CurbRamp,5.206163407435915,2.0
+Motorized wheelchair,2377,7,CurbRamp,4.674856678075145,4.0
+Motorized wheelchair,44798,7,CurbRamp,3.908504795333592,5.0
+Motorized wheelchair,46135,7,CurbRamp,3.715685347053829,6.0
+Motorized wheelchair,258182,7,CurbRamp,5.693332355631529,1.0
+Motorized wheelchair,16482,7,CurbRamp,5.037007973393392,3.0
+Motorized wheelchair,3128,4,SurfaceProblem,4.911825876553326,4.0
+Motorized wheelchair,2080,4,SurfaceProblem,5.689601924758913,2.0
+Motorized wheelchair,39245,4,SurfaceProblem,5.164442979318098,3.0
+Motorized wheelchair,39006,4,SurfaceProblem,5.802647519136456,1.0
+Motorized wheelchair,262,4,SurfaceProblem,3.513658970754846,5.0
+Motorized wheelchair,26619,4,SurfaceProblem,3.4533391418362136,6.0
+Motorized wheelchair,15148,0,Obstacle,4.348178174691339,4.0
+Motorized wheelchair,264820,0,Obstacle,5.682593008260925,1.0
+Motorized wheelchair,191782,0,Obstacle,5.062180541241541,2.0
+Motorized wheelchair,12344,0,Obstacle,3.707528432515642,6.0
+Motorized wheelchair,46864,0,Obstacle,4.366924575035647,3.0
+Motorized wheelchair,997,0,Obstacle,3.906752808128525,5.0
+Motorized wheelchair,7558,1,Obstacle,4.080260874532596,3.0
+Motorized wheelchair,4765,1,Obstacle,4.067220255207733,4.0
+Motorized wheelchair,3850,1,Obstacle,5.548271410304423,1.0
+Motorized wheelchair,12830,1,Obstacle,3.5578003142293624,6.0
+Motorized wheelchair,229205,1,Obstacle,3.823115127308084,5.0
+Motorized wheelchair,191179,1,Obstacle,5.430303648291075,2.0
+Motorized wheelchair,100492,2,Obstacle,5.294892300266535,1.0
+Motorized wheelchair,36038,2,Obstacle,4.646930818866672,2.0
+Motorized wheelchair,208754,2,Obstacle,3.9702136719599146,4.0
+Motorized wheelchair,139731,2,Obstacle,3.650734495399959,6.0
+Motorized wheelchair,197213,2,Obstacle,3.698879382669522,5.0
+Motorized wheelchair,3430,2,Obstacle,4.119108215546993,3.0
+Motorized wheelchair,24214,5,SurfaceProblem,5.514109222257718,1.0
+Motorized wheelchair,273517,5,SurfaceProblem,4.9145599590204245,2.0
+Motorized wheelchair,456,5,SurfaceProblem,4.463957848451615,4.0
+Motorized wheelchair,631,5,SurfaceProblem,4.780542139058055,3.0
+Motorized wheelchair,2697,5,SurfaceProblem,3.7652812502529818,5.0
+Motorized wheelchair,3172,5,SurfaceProblem,3.567010289580431,6.0
+Motorized wheelchair,7061,6,SurfaceProblem,4.36069511738038,3.0
+Motorized wheelchair,5518,6,SurfaceProblem,4.3096936600057,4.0
+Motorized wheelchair,669,6,SurfaceProblem,4.570249443830451,1.0
+Motorized wheelchair,1777,6,SurfaceProblem,4.364811919602223,2.0
+Motorized wheelchair,11350,3,SurfaceProblem,6.0918200293124025,1.0
+Motorized wheelchair,11707,3,SurfaceProblem,4.987536665878383,3.0
+Motorized wheelchair,5941,3,SurfaceProblem,3.509522262664304,5.0
+Motorized wheelchair,209069,3,SurfaceProblem,5.20667591988211,2.0
+Motorized wheelchair,562,3,SurfaceProblem,4.09204905375906,4.0
+Motorized wheelchair,2022,3,SurfaceProblem,3.204180213795543,6.0
+Motorized wheelchair,156512,8,NoCurbRamp,4.586349763413508,3.0
+Motorized wheelchair,141806,8,NoCurbRamp,4.591100991413751,2.0
+Motorized wheelchair,176648,8,NoCurbRamp,3.876733797012607,5.0
+Motorized wheelchair,168483,8,NoCurbRamp,4.705322059884549,1.0
+Motorized wheelchair,175408,8,NoCurbRamp,3.689474890324592,6.0
+Motorized wheelchair,145241,8,NoCurbRamp,4.036037902080801,4.0
+Manual wheelchair,139731,2,Obstacle,4.009906469760354,4.0
+Manual wheelchair,100492,2,Obstacle,5.4595370764177655,2.0
+Manual wheelchair,36038,2,Obstacle,5.483162261381408,1.0
+Manual wheelchair,197213,2,Obstacle,4.078273674914801,3.0
+Manual wheelchair,208754,2,Obstacle,3.7032547964392615,6.0
+Manual wheelchair,3430,2,Obstacle,3.854120297480871,5.0
+Manual wheelchair,11707,3,SurfaceProblem,5.007806673419872,2.0
+Manual wheelchair,11350,3,SurfaceProblem,5.829507607731548,1.0
+Manual wheelchair,562,3,SurfaceProblem,4.522088515298645,4.0
+Manual wheelchair,5941,3,SurfaceProblem,3.821586173939245,5.0
+Manual wheelchair,209069,3,SurfaceProblem,4.927310435883574,3.0
+Manual wheelchair,2022,3,SurfaceProblem,3.6264503805499793,6.0
+Manual wheelchair,229205,1,Obstacle,3.838552776849871,5.0
+Manual wheelchair,7558,1,Obstacle,4.259550349862166,4.0
+Manual wheelchair,191179,1,Obstacle,5.199935751433262,2.0
+Manual wheelchair,4765,1,Obstacle,4.890220601915246,3.0
+Manual wheelchair,3850,1,Obstacle,5.483790786069027,1.0
+Manual wheelchair,12830,1,Obstacle,3.807333726181896,6.0
+Manual wheelchair,258182,7,CurbRamp,5.589774914345893,1.0
+Manual wheelchair,2377,7,CurbRamp,4.075996832485019,5.0
+Manual wheelchair,44798,7,CurbRamp,4.218200539249644,4.0
+Manual wheelchair,3047,7,CurbRamp,5.547764510963375,2.0
+Manual wheelchair,16482,7,CurbRamp,5.028706964846612,3.0
+Manual wheelchair,46135,7,CurbRamp,4.013656009412511,6.0
+Manual wheelchair,3128,4,SurfaceProblem,4.729723208740163,4.0
+Manual wheelchair,39006,4,SurfaceProblem,6.050494101109429,1.0
+Manual wheelchair,39245,4,SurfaceProblem,5.732347770746067,2.0
+Manual wheelchair,2080,4,SurfaceProblem,5.393761730848809,3.0
+Manual wheelchair,26619,4,SurfaceProblem,3.708925379260233,5.0
+Manual wheelchair,262,4,SurfaceProblem,2.9115981370915263,6.0
+Manual wheelchair,456,5,SurfaceProblem,4.612673575310924,4.0
+Manual wheelchair,273517,5,SurfaceProblem,5.005440460349135,2.0
+Manual wheelchair,3172,5,SurfaceProblem,3.66061329347906,6.0
+Manual wheelchair,631,5,SurfaceProblem,4.959687872233558,3.0
+Manual wheelchair,24214,5,SurfaceProblem,5.8500810063308215,1.0
+Manual wheelchair,2697,5,SurfaceProblem,3.7590166139397097,5.0
+Manual wheelchair,141806,8,NoCurbRamp,4.91993541976009,3.0
+Manual wheelchair,175408,8,NoCurbRamp,3.837417023005747,6.0
+Manual wheelchair,176648,8,NoCurbRamp,3.953250393570423,5.0
+Manual wheelchair,156512,8,NoCurbRamp,5.105721470180623,2.0
+Manual wheelchair,145241,8,NoCurbRamp,4.145107046194742,4.0
+Manual wheelchair,168483,8,NoCurbRamp,5.124584058345169,1.0
+Manual wheelchair,264820,0,Obstacle,5.667454004823846,1.0
+Manual wheelchair,191782,0,Obstacle,5.049084040832805,2.0
+Manual wheelchair,46864,0,Obstacle,4.638833412720866,3.0
+Manual wheelchair,997,0,Obstacle,4.353022488311661,5.0
+Manual wheelchair,12344,0,Obstacle,3.489096701186247,6.0
+Manual wheelchair,15148,0,Obstacle,4.53522017258661,4.0
+Manual wheelchair,1777,6,SurfaceProblem,4.6358225883109885,1.0
+Manual wheelchair,7061,6,SurfaceProblem,4.565603832493575,3.0
+Manual wheelchair,669,6,SurfaceProblem,4.616633118433684,2.0
+Manual wheelchair,5518,6,SurfaceProblem,4.227203929247339,4.0
+Walking cane,46135,7,CurbRamp,4.199774324306131,5.0
+Walking cane,44798,7,CurbRamp,4.074706470829445,6.0
+Walking cane,16482,7,CurbRamp,4.654658162287424,4.0
+Walking cane,258182,7,CurbRamp,5.221484860073316,1.0
+Walking cane,2377,7,CurbRamp,4.817728784700656,3.0
+Walking cane,3047,7,CurbRamp,5.123800279126879,2.0
+Walking cane,100492,2,Obstacle,5.763604412749997,1.0
+Walking cane,208754,2,Obstacle,4.479822334116696,3.0
+Walking cane,3430,2,Obstacle,4.077763775051486,5.0
+Walking cane,139731,2,Obstacle,4.057287266528926,6.0
+Walking cane,36038,2,Obstacle,5.453376069798849,2.0
+Walking cane,197213,2,Obstacle,4.309944687487487,4.0
+Walking cane,145241,8,NoCurbRamp,4.023712909309268,6.0
+Walking cane,176648,8,NoCurbRamp,4.245673932039913,4.0
+Walking cane,168483,8,NoCurbRamp,5.124968778245522,1.0
+Walking cane,141806,8,NoCurbRamp,4.574624618373958,3.0
+Walking cane,156512,8,NoCurbRamp,4.987321383029953,2.0
+Walking cane,175408,8,NoCurbRamp,4.2415287360405785,5.0
+Walking cane,7061,6,SurfaceProblem,4.484301730477613,4.0
+Walking cane,1777,6,SurfaceProblem,4.901023251886066,1.0
+Walking cane,5518,6,SurfaceProblem,4.600886812857426,3.0
+Walking cane,669,6,SurfaceProblem,4.888667046205358,2.0
+Walking cane,3128,4,SurfaceProblem,4.76021287963953,4.0
+Walking cane,39006,4,SurfaceProblem,5.680737654975718,1.0
+Walking cane,26619,4,SurfaceProblem,3.704702473532676,6.0
+Walking cane,262,4,SurfaceProblem,3.719423636575266,5.0
+Walking cane,39245,4,SurfaceProblem,5.299952102437579,3.0
+Walking cane,2080,4,SurfaceProblem,5.331974155430599,2.0
+Walking cane,7558,1,Obstacle,4.556727263342113,4.0
+Walking cane,3850,1,Obstacle,5.8234830026967135,1.0
+Walking cane,191179,1,Obstacle,5.564422728516048,2.0
+Walking cane,229205,1,Obstacle,3.6096971317962256,6.0
+Walking cane,12830,1,Obstacle,3.658638009198304,5.0
+Walking cane,4765,1,Obstacle,4.758585681138254,3.0
+Walking cane,12344,0,Obstacle,4.077565021019928,5.0
+Walking cane,15148,0,Obstacle,4.671193792232221,4.0
+Walking cane,46864,0,Obstacle,4.999927670457728,3.0
+Walking cane,997,0,Obstacle,4.052367756275826,6.0
+Walking cane,264820,0,Obstacle,5.5364669937169655,1.0
+Walking cane,191782,0,Obstacle,5.51443322754129,2.0
+Walking cane,562,3,SurfaceProblem,4.328157698089447,4.0
+Walking cane,5941,3,SurfaceProblem,3.530855662281291,6.0
+Walking cane,2022,3,SurfaceProblem,3.632131621647564,5.0
+Walking cane,209069,3,SurfaceProblem,4.639290269440945,3.0
+Walking cane,11707,3,SurfaceProblem,5.516661796787082,2.0
+Walking cane,11350,3,SurfaceProblem,6.024647306523821,1.0
+Walking cane,3172,5,SurfaceProblem,4.07259608948456,6.0
+Walking cane,273517,5,SurfaceProblem,4.469942629388214,4.0
+Walking cane,24214,5,SurfaceProblem,5.4041663736918935,1.0
+Walking cane,456,5,SurfaceProblem,4.670084816001504,3.0
+Walking cane,2697,5,SurfaceProblem,4.087184229728739,5.0
+Walking cane,631,5,SurfaceProblem,4.924161979518495,2.0
+Mobility scooter,3430,2,Obstacle,4.169948307620398,4.0
+Mobility scooter,100492,2,Obstacle,5.439798892830207,1.0
+Mobility scooter,208754,2,Obstacle,4.182245557245558,3.0
+Mobility scooter,197213,2,Obstacle,3.992638471805139,5.0
+Mobility scooter,36038,2,Obstacle,5.195524121839911,2.0
+Mobility scooter,139731,2,Obstacle,3.933173621579418,6.0
+Mobility scooter,229205,1,Obstacle,4.380840068573972,4.0
+Mobility scooter,4765,1,Obstacle,4.3938013839788495,3.0
+Mobility scooter,191179,1,Obstacle,5.344047870956303,2.0
+Mobility scooter,3850,1,Obstacle,5.490343510936233,1.0
+Mobility scooter,12830,1,Obstacle,4.002075052411439,6.0
+Mobility scooter,7558,1,Obstacle,4.097542798815036,5.0
+Mobility scooter,2080,4,SurfaceProblem,5.368313267117983,2.0
+Mobility scooter,262,4,SurfaceProblem,3.65326503001404,6.0
+Mobility scooter,3128,4,SurfaceProblem,4.620002417405415,4.0
+Mobility scooter,39245,4,SurfaceProblem,5.194897743154603,3.0
+Mobility scooter,39006,4,SurfaceProblem,5.704217107922296,1.0
+Mobility scooter,26619,4,SurfaceProblem,4.127235471512257,5.0
+Mobility scooter,2377,7,CurbRamp,4.542018684097838,4.0
+Mobility scooter,258182,7,CurbRamp,5.572623014415783,1.0
+Mobility scooter,3047,7,CurbRamp,5.139217454370437,2.0
+Mobility scooter,16482,7,CurbRamp,4.695247590622424,3.0
+Mobility scooter,46135,7,CurbRamp,4.185955876534168,6.0
+Mobility scooter,44798,7,CurbRamp,4.275473608493276,5.0
+Mobility scooter,7061,6,SurfaceProblem,4.093772488112792,4.0
+Mobility scooter,669,6,SurfaceProblem,4.572819139048411,1.0
+Mobility scooter,5518,6,SurfaceProblem,4.189245316048033,3.0
+Mobility scooter,1777,6,SurfaceProblem,4.38991444838597,2.0
+Mobility scooter,456,5,SurfaceProblem,4.222920014169684,4.0
+Mobility scooter,2697,5,SurfaceProblem,3.760858974610077,6.0
+Mobility scooter,24214,5,SurfaceProblem,5.321970852049739,1.0
+Mobility scooter,273517,5,SurfaceProblem,4.376951930825212,3.0
+Mobility scooter,631,5,SurfaceProblem,4.896047567751076,2.0
+Mobility scooter,3172,5,SurfaceProblem,3.9575242856913935,5.0
+Mobility scooter,15148,0,Obstacle,4.508063295691951,4.0
+Mobility scooter,997,0,Obstacle,3.974953986215653,5.0
+Mobility scooter,264820,0,Obstacle,5.265419120826582,1.0
+Mobility scooter,12344,0,Obstacle,3.925707005966229,6.0
+Mobility scooter,46864,0,Obstacle,4.631166670256168,3.0
+Mobility scooter,191782,0,Obstacle,5.103772254635455,2.0
+Mobility scooter,168483,8,NoCurbRamp,5.198149815880536,1.0
+Mobility scooter,156512,8,NoCurbRamp,5.0203484436460295,2.0
+Mobility scooter,175408,8,NoCurbRamp,3.899866324408044,6.0
+Mobility scooter,141806,8,NoCurbRamp,4.393128275871638,3.0
+Mobility scooter,176648,8,NoCurbRamp,4.05001185730152,5.0
+Mobility scooter,145241,8,NoCurbRamp,4.325283419217785,4.0
+Mobility scooter,209069,3,SurfaceProblem,5.204114087106819,2.0
+Mobility scooter,2022,3,SurfaceProblem,3.620225191549562,6.0
+Mobility scooter,11707,3,SurfaceProblem,4.766276761993035,3.0
+Mobility scooter,11350,3,SurfaceProblem,5.726745987872889,1.0
+Mobility scooter,5941,3,SurfaceProblem,3.8628924598216674,5.0
+Mobility scooter,562,3,SurfaceProblem,3.871505264686244,4.0
+Walker,2697,5,SurfaceProblem,3.768992346782095,5.0
+Walker,456,5,SurfaceProblem,4.717188639606785,2.0
+Walker,631,5,SurfaceProblem,4.468625440356723,4.0
+Walker,24214,5,SurfaceProblem,5.388830287646286,1.0
+Walker,3172,5,SurfaceProblem,3.7327509180084073,6.0
+Walker,273517,5,SurfaceProblem,4.494162758819432,3.0
+Walker,26619,4,SurfaceProblem,3.7428574487808928,6.0
+Walker,39245,4,SurfaceProblem,5.144965314987448,3.0
+Walker,3128,4,SurfaceProblem,4.765027173517423,4.0
+Walker,2080,4,SurfaceProblem,5.203843532824076,2.0
+Walker,262,4,SurfaceProblem,3.818949584599097,5.0
+Walker,39006,4,SurfaceProblem,5.5422979377430455,1.0
+Walker,197213,2,Obstacle,3.743636054813255,6.0
+Walker,100492,2,Obstacle,5.577882861610275,1.0
+Walker,3430,2,Obstacle,3.879711171409997,5.0
+Walker,36038,2,Obstacle,5.275407722631072,2.0
+Walker,208754,2,Obstacle,4.158182880327125,3.0
+Walker,139731,2,Obstacle,4.0968386802347085,4.0
+Walker,15148,0,Obstacle,4.14178737730822,4.0
+Walker,46864,0,Obstacle,4.258245640760462,3.0
+Walker,997,0,Obstacle,3.9052551697137754,5.0
+Walker,191782,0,Obstacle,4.780678724767763,2.0
+Walker,12344,0,Obstacle,3.516948273743978,6.0
+Walker,264820,0,Obstacle,5.130202696143919,1.0
+Walker,3047,7,CurbRamp,5.170424816804024,3.0
+Walker,46135,7,CurbRamp,4.225761848243527,5.0
+Walker,2377,7,CurbRamp,4.672142693478087,4.0
+Walker,258182,7,CurbRamp,5.243330175995741,1.0
+Walker,16482,7,CurbRamp,5.202292691561359,2.0
+Walker,44798,7,CurbRamp,4.175175058913634,6.0
+Walker,11707,3,SurfaceProblem,5.254965113566385,2.0
+Walker,2022,3,SurfaceProblem,3.675560574372392,5.0
+Walker,562,3,SurfaceProblem,3.8930925622044943,4.0
+Walker,5941,3,SurfaceProblem,3.5292151865542216,6.0
+Walker,11350,3,SurfaceProblem,5.759413286785326,1.0
+Walker,209069,3,SurfaceProblem,4.7600670723213625,3.0
+Walker,7558,1,Obstacle,4.450207353747327,4.0
+Walker,4765,1,Obstacle,4.714462565443509,3.0
+Walker,12830,1,Obstacle,3.929860320141045,5.0
+Walker,191179,1,Obstacle,4.990193458197992,2.0
+Walker,229205,1,Obstacle,3.637174300865584,6.0
+Walker,3850,1,Obstacle,5.412521977024421,1.0
+Walker,141806,8,NoCurbRamp,4.602933189200923,3.0
+Walker,145241,8,NoCurbRamp,4.268752942773545,4.0
+Walker,175408,8,NoCurbRamp,4.062149162311739,5.0
+Walker,176648,8,NoCurbRamp,4.057490874097121,6.0
+Walker,168483,8,NoCurbRamp,5.197351709613866,1.0
+Walker,156512,8,NoCurbRamp,4.965974746430467,2.0
+Walker,669,6,SurfaceProblem,4.533280036363601,2.0
+Walker,5518,6,SurfaceProblem,4.218197263285831,3.0
+Walker,1777,6,SurfaceProblem,4.535685513946384,1.0
+Walker,7061,6,SurfaceProblem,4.174464146819991,4.0

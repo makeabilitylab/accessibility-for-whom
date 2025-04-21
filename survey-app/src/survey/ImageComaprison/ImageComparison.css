@@ -1,0 +1,38 @@
+.comparison-image-wrapper {
+  display: flex;
+  margin: 1rem; 
+  width: 45%;
+  cursor: pointer;
+  border-radius: 0.75em;
+  overflow: hidden;
+  height: 50vh;
+}
+
+.comparison-image-wrapper:hover{
+  /* add border */
+  border: 0.4em solid #14b8a6;
+}
+
+
+.comparison-twin {
+  display: flex;
+  flex-direction: row;
+  height: auto;
+  justify-content: center; /* Center images */
+  align-items: center;
+}
+
+.image-comparison-and-buttons{
+  display: flex;
+  flex-direction: column;
+  gap: 1vh;
+  align-items: center;
+  margin-bottom: 4rem;
+}
+
+.image-comparison-content {
+  max-height: 90vh; /* Ensure content height is within viewport */
+  overflow-y: auto; /* Enable vertical scrolling for content */
+  padding: 1rem; /* Add padding for better spacing */
+}
+

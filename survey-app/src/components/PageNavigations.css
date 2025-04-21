@@ -1,0 +1,12 @@
+.navigation-controls {
+    position: fixed; 
+    bottom: 20px;   
+    right: 20px;     
+    display: flex;
+    align-items: center;
+    gap: 2px; 
+    /* z-index: 10; */
+    border-radius: 0.2em;
+    overflow: hidden;
+  }
+  
